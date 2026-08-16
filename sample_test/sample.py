@@ -50,3 +50,5 @@ query.awaitTermination()
 
 
 ### theese change is just for asmple featire bracnh 1 
+
+### another chnage in feature-1 this but chamhes were also doen in feature-1-mychanges
